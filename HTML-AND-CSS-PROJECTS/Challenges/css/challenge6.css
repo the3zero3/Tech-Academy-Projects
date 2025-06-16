@@ -1,0 +1,27 @@
+/*Centers the header text*/
+h1 {
+    text-align: center;
+}
+
+/*TWO-COLUMN LAYOUT*/
+.row {
+    display: flex;
+}
+
+/*Specifically styles the two columns*/
+.col1 {
+    flex: 50%;
+    padding: 20px;
+    background-color: darkgrey;
+    text-align: center;
+    color: white;
+    height: 100px;
+    width: 500px;
+}
+
+.col2 {
+    flex: 50%;
+    padding: 20px;
+    background-color: lightgrey;
+    text-align: center;
+}

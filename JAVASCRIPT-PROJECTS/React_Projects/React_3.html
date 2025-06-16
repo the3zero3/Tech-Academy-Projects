@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script src="https://unpkg.com/react@16/umd/react.development.js" crossorigin></script>
+    <script src="https://unpkg.com/react-dom@16/umd/react-dom.development.js" crossorigin></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    <style>
+        /* VW Unit Challenge */
+        h1 {
+            font-size: 8vw;
+        }
+
+        /* Fade Challenge */
+        body {
+            opacity: 1;
+            transition: 1s opacity;
+        }
+
+        body.fade-out {
+            opacity: 0;
+            transition: none;
+        }
+    </style>
+</head>
+
+<body>
+    <!--Fade Challenge-->
+    <script>
+        document.body.classList.add('fade-out');
+    </script>
+
+    <div id="JSX"></div>
+    <script type="text/babel">
+        class Greeting extends React.Component {
+            render() {
+                return <h1>Hello, World!</h1>
+            }
+        }
+
+        ReactDOM.render(<Greeting />, document.getElementById('JSX'))
+    </script>
+    
+    <!--Fade Challenge-->
+    <script>
+        window.addEventListener('DOMContentLoaded', () => {
+            document.body.classList.remove('fade-out');
+        });
+    </script>
+</body>
+
+</html>

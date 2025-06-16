@@ -1,0 +1,7 @@
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\AcmeAccounting\AcmeAccounting\bin\Debug\AcmeAccounting.exe.config
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\AcmeAccounting\AcmeAccounting\bin\Debug\AcmeAccounting.exe
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\AcmeAccounting\AcmeAccounting\bin\Debug\AcmeAccounting.pdb
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\AcmeAccounting\AcmeAccounting\obj\Debug\AcmeAccounting.csproj.AssemblyReference.cache
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\AcmeAccounting\AcmeAccounting\obj\Debug\AcmeAccounting.csproj.CoreCompileInputs.cache
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\AcmeAccounting\AcmeAccounting\obj\Debug\AcmeAccounting.exe
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\AcmeAccounting\AcmeAccounting\obj\Debug\AcmeAccounting.pdb

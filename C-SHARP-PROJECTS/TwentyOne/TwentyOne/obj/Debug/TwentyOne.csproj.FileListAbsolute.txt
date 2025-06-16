@@ -1,0 +1,11 @@
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe.config
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\TwentyOne\TwentyOne\bin\Debug\TwentyOne.pdb
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.AssemblyReference.cache
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe.config
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\TwentyOne\TwentyOne\bin\Debug\Casino.dll
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\TwentyOne\TwentyOne\bin\Debug\Casino.pdb
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.Up2Date

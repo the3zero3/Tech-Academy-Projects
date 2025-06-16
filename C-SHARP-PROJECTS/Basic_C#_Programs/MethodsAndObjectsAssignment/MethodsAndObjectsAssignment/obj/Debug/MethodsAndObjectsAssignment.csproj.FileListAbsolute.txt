@@ -1,0 +1,7 @@
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\MethodsAndObjectsAssignment\MethodsAndObjectsAssignment\bin\Debug\MethodsAndObjectsAssignment.exe.config
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\MethodsAndObjectsAssignment\MethodsAndObjectsAssignment\bin\Debug\MethodsAndObjectsAssignment.exe
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\MethodsAndObjectsAssignment\MethodsAndObjectsAssignment\bin\Debug\MethodsAndObjectsAssignment.pdb
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\MethodsAndObjectsAssignment\MethodsAndObjectsAssignment\obj\Debug\MethodsAndObjectsAssignment.csproj.AssemblyReference.cache
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\MethodsAndObjectsAssignment\MethodsAndObjectsAssignment\obj\Debug\MethodsAndObjectsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\MethodsAndObjectsAssignment\MethodsAndObjectsAssignment\obj\Debug\MethodsAndObjectsAssignment.exe
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\MethodsAndObjectsAssignment\MethodsAndObjectsAssignment\obj\Debug\MethodsAndObjectsAssignment.pdb

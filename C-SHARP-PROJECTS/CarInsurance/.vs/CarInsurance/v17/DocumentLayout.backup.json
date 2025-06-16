@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thedi\\Documents\\GitHub\\C-SHARP-PROJECTS\\CarInsurance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91E7C71A-FA8A-4043-860B-5FD25A96FBEE}|CarInsurance\\CarInsurance.csproj|c:\\users\\thedi\\documents\\github\\c-sharp-projects\\carinsurance\\carinsurance\\controllers\\insureescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91E7C71A-FA8A-4043-860B-5FD25A96FBEE}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\controllers\\insureescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91E7C71A-FA8A-4043-860B-5FD25A96FBEE}|CarInsurance\\CarInsurance.csproj|c:\\users\\thedi\\documents\\github\\c-sharp-projects\\carinsurance\\carinsurance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91E7C71A-FA8A-4043-860B-5FD25A96FBEE}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91E7C71A-FA8A-4043-860B-5FD25A96FBEE}|CarInsurance\\CarInsurance.csproj|c:\\users\\thedi\\documents\\github\\c-sharp-projects\\carinsurance\\carinsurance\\views\\insurees\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91E7C71A-FA8A-4043-860B-5FD25A96FBEE}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\views\\insurees\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91E7C71A-FA8A-4043-860B-5FD25A96FBEE}|CarInsurance\\CarInsurance.csproj|c:\\users\\thedi\\documents\\github\\c-sharp-projects\\carinsurance\\carinsurance\\viewmodels\\insureevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91E7C71A-FA8A-4043-860B-5FD25A96FBEE}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\viewmodels\\insureevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91E7C71A-FA8A-4043-860B-5FD25A96FBEE}|CarInsurance\\CarInsurance.csproj|c:\\users\\thedi\\documents\\github\\c-sharp-projects\\carinsurance\\carinsurance\\views\\insurees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91E7C71A-FA8A-4043-860B-5FD25A96FBEE}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\views\\insurees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91E7C71A-FA8A-4043-860B-5FD25A96FBEE}|CarInsurance\\CarInsurance.csproj|c:\\users\\thedi\\documents\\github\\c-sharp-projects\\carinsurance\\carinsurance\\models\\insuree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91E7C71A-FA8A-4043-860B-5FD25A96FBEE}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\models\\insuree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91E7C71A-FA8A-4043-860B-5FD25A96FBEE}|CarInsurance\\CarInsurance.csproj|c:\\users\\thedi\\documents\\github\\c-sharp-projects\\carinsurance\\carinsurance\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{91E7C71A-FA8A-4043-860B-5FD25A96FBEE}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91E7C71A-FA8A-4043-860B-5FD25A96FBEE}|CarInsurance\\CarInsurance.csproj|c:\\users\\thedi\\documents\\github\\c-sharp-projects\\carinsurance\\carinsurance\\data\\insureescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91E7C71A-FA8A-4043-860B-5FD25A96FBEE}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\data\\insureescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Insuree.cs",
+              "DocumentMoniker": "C:\\Users\\thedi\\Documents\\GitHub\\C-SHARP-PROJECTS\\CarInsurance\\CarInsurance\\Models\\Insuree.cs",
+              "RelativeDocumentMoniker": "CarInsurance\\Models\\Insuree.cs",
+              "ToolTip": "C:\\Users\\thedi\\Documents\\GitHub\\C-SHARP-PROJECTS\\CarInsurance\\CarInsurance\\Models\\Insuree.cs",
+              "RelativeToolTip": "CarInsurance\\Models\\Insuree.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T17:28:41.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InsureesContext.cs",
+              "DocumentMoniker": "C:\\Users\\thedi\\Documents\\GitHub\\C-SHARP-PROJECTS\\CarInsurance\\CarInsurance\\Data\\InsureesContext.cs",
+              "RelativeDocumentMoniker": "CarInsurance\\Data\\InsureesContext.cs",
+              "ToolTip": "C:\\Users\\thedi\\Documents\\GitHub\\C-SHARP-PROJECTS\\CarInsurance\\CarInsurance\\Data\\InsureesContext.cs",
+              "RelativeToolTip": "CarInsurance\\Data\\InsureesContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T17:38:57.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\thedi\\Documents\\GitHub\\C-SHARP-PROJECTS\\CarInsurance\\CarInsurance\\appsettings.json",
+              "RelativeDocumentMoniker": "CarInsurance\\appsettings.json",
+              "ToolTip": "C:\\Users\\thedi\\Documents\\GitHub\\C-SHARP-PROJECTS\\CarInsurance\\CarInsurance\\appsettings.json",
+              "RelativeToolTip": "CarInsurance\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-20T17:41:21.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thedi\\Documents\\GitHub\\C-SHARP-PROJECTS\\CarInsurance\\CarInsurance\\Program.cs",
+              "RelativeDocumentMoniker": "CarInsurance\\Program.cs",
+              "ToolTip": "C:\\Users\\thedi\\Documents\\GitHub\\C-SHARP-PROJECTS\\CarInsurance\\CarInsurance\\Program.cs",
+              "RelativeToolTip": "CarInsurance\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T17:42:55.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InsureesController.cs",
+              "DocumentMoniker": "C:\\Users\\thedi\\Documents\\GitHub\\C-SHARP-PROJECTS\\CarInsurance\\CarInsurance\\Controllers\\InsureesController.cs",
+              "RelativeDocumentMoniker": "CarInsurance\\Controllers\\InsureesController.cs",
+              "ToolTip": "C:\\Users\\thedi\\Documents\\GitHub\\C-SHARP-PROJECTS\\CarInsurance\\CarInsurance\\Controllers\\InsureesController.cs",
+              "RelativeToolTip": "CarInsurance\\Controllers\\InsureesController.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAYwLsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T17:46:17.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\thedi\\Documents\\GitHub\\C-SHARP-PROJECTS\\CarInsurance\\CarInsurance\\Views\\Insurees\\Index.cshtml",
+              "RelativeDocumentMoniker": "CarInsurance\\Views\\Insurees\\Index.cshtml",
+              "ToolTip": "C:\\Users\\thedi\\Documents\\GitHub\\C-SHARP-PROJECTS\\CarInsurance\\CarInsurance\\Views\\Insurees\\Index.cshtml",
+              "RelativeToolTip": "CarInsurance\\Views\\Insurees\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T20:26:11.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InsureeVm.cs",
+              "DocumentMoniker": "C:\\Users\\thedi\\Documents\\GitHub\\C-SHARP-PROJECTS\\CarInsurance\\CarInsurance\\ViewModels\\InsureeVm.cs",
+              "RelativeDocumentMoniker": "CarInsurance\\ViewModels\\InsureeVm.cs",
+              "ToolTip": "C:\\Users\\thedi\\Documents\\GitHub\\C-SHARP-PROJECTS\\CarInsurance\\CarInsurance\\ViewModels\\InsureeVm.cs",
+              "RelativeToolTip": "CarInsurance\\ViewModels\\InsureeVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T19:26:59.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Admin.cshtml",
+              "DocumentMoniker": "C:\\Users\\thedi\\Documents\\GitHub\\C-SHARP-PROJECTS\\CarInsurance\\CarInsurance\\Views\\Insurees\\Admin.cshtml",
+              "RelativeDocumentMoniker": "CarInsurance\\Views\\Insurees\\Admin.cshtml",
+              "ToolTip": "C:\\Users\\thedi\\Documents\\GitHub\\C-SHARP-PROJECTS\\CarInsurance\\CarInsurance\\Views\\Insurees\\Admin.cshtml",
+              "RelativeToolTip": "CarInsurance\\Views\\Insurees\\Admin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T19:36:10.025Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

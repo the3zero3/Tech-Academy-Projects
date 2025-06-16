@@ -1,0 +1,17 @@
+/*Centers the header text*/
+h1 {
+    text-align: center;
+}
+
+/*Styles the p tag*/
+p {
+    text-align: center;
+    font-size: 35px;
+}
+
+/*Sets the text to turn blue when the screen width is smaller than 600px*/
+@media screen and (max-width: 600px) {
+    p {
+        color: blue;
+    }
+}

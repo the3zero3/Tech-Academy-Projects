@@ -1,0 +1,8 @@
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\DateTimeAssignment\DateTimeAssignment\bin\Debug\DateTimeAssignment.exe.config
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\DateTimeAssignment\DateTimeAssignment\bin\Debug\DateTimeAssignment.exe
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\DateTimeAssignment\DateTimeAssignment\bin\Debug\DateTimeAssignment.pdb
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\DateTimeAssignment\DateTimeAssignment\obj\Debug\DateTimeAssignment.csproj.AssemblyReference.cache
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\DateTimeAssignment\DateTimeAssignment\obj\Debug\DateTimeAssignment.csproj.CoreCompileInputs.cache
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\DateTimeAssignment\DateTimeAssignment\obj\Debug\DateTimeAssignment.exe
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\DateTimeAssignment\DateTimeAssignment\obj\Debug\DateTimeAssignment.pdb
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\DateTimeAssignment\DateTimeAssignment\obj\Debug\DateTimeAssignment.exe.config

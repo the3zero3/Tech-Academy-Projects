@@ -1,0 +1,7 @@
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\MethodPt4Assignment\MethodPt4Assignment\obj\Debug\MethodPt4Assignment.csproj.AssemblyReference.cache
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\MethodPt4Assignment\MethodPt4Assignment\obj\Debug\MethodPt4Assignment.csproj.CoreCompileInputs.cache
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\MethodPt4Assignment\MethodPt4Assignment\bin\Debug\MethodPt4Assignment.exe.config
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\MethodPt4Assignment\MethodPt4Assignment\bin\Debug\MethodPt4Assignment.exe
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\MethodPt4Assignment\MethodPt4Assignment\bin\Debug\MethodPt4Assignment.pdb
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\MethodPt4Assignment\MethodPt4Assignment\obj\Debug\MethodPt4Assignment.exe
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\MethodPt4Assignment\MethodPt4Assignment\obj\Debug\MethodPt4Assignment.pdb

@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thedi\\Documents\\GitHub\\C-SHARP-PROJECTS\\Basic_C#_Programs\\BooleanAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC118E6B-75D3-4E40-8B2E-FABA604548FD}|BooleanAssignment\\BooleanAssignment.csproj|c:\\users\\thedi\\documents\\github\\c-sharp-projects\\basic_c#_programs\\booleanassignment\\booleanassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC118E6B-75D3-4E40-8B2E-FABA604548FD}|BooleanAssignment\\BooleanAssignment.csproj|solutionrelative:booleanassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thedi\\Documents\\GitHub\\C-SHARP-PROJECTS\\Basic_C#_Programs\\BooleanAssignment\\BooleanAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "BooleanAssignment\\Program.cs",
+              "ToolTip": "C:\\Users\\thedi\\Documents\\GitHub\\C-SHARP-PROJECTS\\Basic_C#_Programs\\BooleanAssignment\\BooleanAssignment\\Program.cs",
+              "RelativeToolTip": "BooleanAssignment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:04:18.372Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

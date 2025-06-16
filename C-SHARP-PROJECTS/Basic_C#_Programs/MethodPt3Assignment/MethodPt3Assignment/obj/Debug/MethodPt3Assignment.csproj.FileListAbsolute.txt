@@ -1,0 +1,7 @@
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\MethodPt3Assignment\MethodPt3Assignment\bin\Debug\MethodPt3Assignment.exe.config
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\MethodPt3Assignment\MethodPt3Assignment\bin\Debug\MethodPt3Assignment.exe
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\MethodPt3Assignment\MethodPt3Assignment\bin\Debug\MethodPt3Assignment.pdb
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\MethodPt3Assignment\MethodPt3Assignment\obj\Debug\MethodPt3Assignment.csproj.AssemblyReference.cache
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\MethodPt3Assignment\MethodPt3Assignment\obj\Debug\MethodPt3Assignment.csproj.CoreCompileInputs.cache
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\MethodPt3Assignment\MethodPt3Assignment\obj\Debug\MethodPt3Assignment.exe
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\MethodPt3Assignment\MethodPt3Assignment\obj\Debug\MethodPt3Assignment.pdb

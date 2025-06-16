@@ -1,0 +1,7 @@
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\LambdaAssignment\LambdaAssignment\bin\Debug\LambdaAssignment.exe.config
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\LambdaAssignment\LambdaAssignment\bin\Debug\LambdaAssignment.exe
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\LambdaAssignment\LambdaAssignment\bin\Debug\LambdaAssignment.pdb
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\LambdaAssignment\LambdaAssignment\obj\Debug\LambdaAssignment.csproj.AssemblyReference.cache
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\LambdaAssignment\LambdaAssignment\obj\Debug\LambdaAssignment.csproj.CoreCompileInputs.cache
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\LambdaAssignment\LambdaAssignment\obj\Debug\LambdaAssignment.exe
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\LambdaAssignment\LambdaAssignment\obj\Debug\LambdaAssignment.pdb

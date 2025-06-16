@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>My One Page Website</title>
+    <meta charset="UTF-8">
+    <meta name="description"
+        content="This is a one page website designed and coded during the HTML and CSS course at The Tech Academy.">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/one_page_website.css">
+    <script src="js/one_page_website.js" defer></script>
+</head>
+
+<body>
+    <!--HEADER-->
+    <header>
+        <div>
+            <h1>F1 Engines</h1>
+            <p>The heart of an F1 car</p>
+        </div>
+    </header>
+    <!--NAVBAR-->
+    <nav>
+        <table>
+            <tr>
+                <td>
+                    <a href="#pictures">Pictures</a>
+                </td>
+                <td>
+                    <a href="#videos">Videos</a>
+                </td>
+                <td>
+                    <a href="#contact">Contact Us</a>
+                </td>
+            </tr>
+        </table>
+    </nav>
+    <!--PICTURES-->
+    <section id="pictures">
+        <div>
+            <h2>Choose an engine:</h2>
+            <!--IMAGES USED TO OPEN THE LIGHTBOX-->
+            <div class="row">
+                <!--V12 IMAGE-->
+                <div class="column">
+                    <h3>V12</h3>
+                    <img src="images/V12.jpg" style="width:100%" onclick="openModal();currentSlide(1)"
+                        class="hover-shadow">
+                </div>
+                <!--V10 IMAGE-->
+                <div class="column">
+                    <h3>V10</h3>
+                    <img src="images/V10.jpg" style="width:100%" onclick="openModal();currentSlide(2)"
+                        class="hover-shadow">
+                </div>
+                <!--V8 IMAGE-->
+                <div class="column">
+                    <h3>V8</h3>
+                    <img src="images/V8.jpg" style="width:100%" onclick="openModal();currentSlide(3)"
+                        class="hover-shadow">
+                </div>
+                <!--V6 IMAGE-->
+                <div class="column">
+                    <h3>V6</h3>
+                    <img src="images/V6.jpg" style="width:100%" onclick="openModal();currentSlide(4)"
+                        class="hover-shadow">
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--MODAL/LIGHTBOX-->
+    <div id="myModal" class="modal">
+        <span class="close cursor" onclick="closeModal()">&times;</span>
+        <div class="modal-content">
+            <div class="mySlides">
+                <div class="numbertext">1 / 4</div>
+                <img src="images/V12.jpg" style="width: 100%;">
+            </div>
+            <div class="mySlides">
+                <div class="numbertext">2 / 4</div>
+                <img src="images/V10.jpg" style="width: 100%;">
+            </div>
+            <div class="mySlides">
+                <div class="numbertext">3 / 4</div>
+                <img src="images/V8.jpg" style="width: 100%;">
+            </div>
+            <div class="mySlides">
+                <div class="numbertext">4 / 4</div>
+                <img src="images/V6.jpg" style="width: 100%;">
+            </div>
+            <!--NEXT/PREV CONTROLS-->
+            <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+            <a class="next" onclick="plusSlides(1)">&#10095;</a>
+            <!--CAPTION TEXT-->
+            <div class="caption-container">
+                <p id="caption"></p>
+            </div>
+            <!--THUMBNAIL IMAGE CONTROLS-->
+            <div class="column">
+                <img class="thumb" src="images/V12.jpg" onclick="currentSlide(1)" alt="V12 engine">
+            </div>
+            <div class="column">
+                <img class="thumb" src="images/V10.jpg" onclick="currentSlide(2)" alt="V10 engine">
+            </div>
+            <div class="column">
+                <img class="thumb" src="images/V8.jpg" onclick="currentSlide(3)" alt="V8 engine">
+            </div>
+            <div class="column">
+                <img class="thumb" src="images/V6.jpg" onclick="currentSlide(4)" alt="V6 engine">
+            </div>
+        </div>
+    </div>
+    <!--VIDEOS-->
+    <section id="videos">
+        <!--ENGINE VIDEO-->
+        <div>
+            <h2>F1 Engine Comparison</h2>
+            <iframe width="640" height="360" src="https://www.youtube.com/embed/92aYYjK_0Ww"></iframe>
+        </div>
+    </section>
+    <!--CONTACT US-->
+    <section>
+        <div id="contact">
+            <h2>Contact Us!</h2>
+            <form>
+                <input type="text" placeholder="First Name">
+                <input type="text" placeholder="Last Name"><br>
+                <input type="email" placeholder="Email">
+                <input type="tel" placeholder="Phone Number"><br>
+                <textarea placeholder="Type message here..."></textarea><br>
+                <input type="submit" value="Submit">
+            </form>
+        </div>
+    </section>
+    <!--FOOTER-->
+    <footer>
+        <p>&copy; CM Webwerks 2024</p>
+    </footer>
+</body>
+
+</html>

@@ -1,0 +1,26 @@
+/*Centers the header text*/
+h1 {
+    text-align: center;
+}
+
+table {
+    /*Creates a border around the table*/
+    border: 2px solid black;
+    /*Collapses the table borders into a single border*/
+    border-collapse: collapse;
+    /*Centers the table*/
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*Specfically styles the cells of the table*/
+th, td {
+    border: 1px solid grey;
+    padding: 10px 100px 10px 10px;
+    text-align: left;
+}
+
+/*Adds a background color to the top row*/
+th {
+    background-color: darkgrey;
+}

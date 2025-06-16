@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thedi\\Documents\\GitHub\\C-SHARP-PROJECTS\\Basic_C#_Programs\\TwentyOne\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA02B630-EE65-4E13-82A6-3F21A0695D56}|TwentyOne\\TwentyOne.csproj|c:\\users\\thedi\\documents\\github\\c-sharp-projects\\basic_c#_programs\\twentyone\\twentyone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA02B630-EE65-4E13-82A6-3F21A0695D56}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA02B630-EE65-4E13-82A6-3F21A0695D56}|TwentyOne\\TwentyOne.csproj|c:\\users\\thedi\\documents\\github\\c-sharp-projects\\basic_c#_programs\\twentyone\\twentyone\\exceptionentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA02B630-EE65-4E13-82A6-3F21A0695D56}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\exceptionentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A4FE540-3EA7-4E30-BFDF-52C0153F46C6}|Casino\\Casino.csproj|c:\\users\\thedi\\documents\\github\\c-sharp-projects\\basic_c#_programs\\twentyone\\casino\\twentyonegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A4FE540-3EA7-4E30-BFDF-52C0153F46C6}|Casino\\Casino.csproj|solutionrelative:casino\\twentyonegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A4FE540-3EA7-4E30-BFDF-52C0153F46C6}|Casino\\Casino.csproj|c:\\users\\thedi\\documents\\github\\c-sharp-projects\\basic_c#_programs\\twentyone\\casino\\fraudexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A4FE540-3EA7-4E30-BFDF-52C0153F46C6}|Casino\\Casino.csproj|solutionrelative:casino\\fraudexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExceptionEntity.cs",
+              "DocumentMoniker": "C:\\Users\\thedi\\Documents\\GitHub\\C-SHARP-PROJECTS\\Basic_C#_Programs\\TwentyOne\\TwentyOne\\ExceptionEntity.cs",
+              "RelativeDocumentMoniker": "TwentyOne\\ExceptionEntity.cs",
+              "ToolTip": "C:\\Users\\thedi\\Documents\\GitHub\\C-SHARP-PROJECTS\\Basic_C#_Programs\\TwentyOne\\TwentyOne\\ExceptionEntity.cs",
+              "RelativeToolTip": "TwentyOne\\ExceptionEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T22:10:17.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FraudException.cs",
+              "DocumentMoniker": "C:\\Users\\thedi\\Documents\\GitHub\\C-SHARP-PROJECTS\\Basic_C#_Programs\\TwentyOne\\Casino\\FraudException.cs",
+              "RelativeDocumentMoniker": "Casino\\FraudException.cs",
+              "ToolTip": "C:\\Users\\thedi\\Documents\\GitHub\\C-SHARP-PROJECTS\\Basic_C#_Programs\\TwentyOne\\Casino\\FraudException.cs",
+              "RelativeToolTip": "Casino\\FraudException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T21:00:45.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TwentyOneGame.cs",
+              "DocumentMoniker": "C:\\Users\\thedi\\Documents\\GitHub\\C-SHARP-PROJECTS\\Basic_C#_Programs\\TwentyOne\\Casino\\TwentyOneGame.cs",
+              "RelativeDocumentMoniker": "Casino\\TwentyOneGame.cs",
+              "ToolTip": "C:\\Users\\thedi\\Documents\\GitHub\\C-SHARP-PROJECTS\\Basic_C#_Programs\\TwentyOne\\Casino\\TwentyOneGame.cs",
+              "RelativeToolTip": "Casino\\TwentyOneGame.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwCQAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T20:45:57.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thedi\\Documents\\GitHub\\C-SHARP-PROJECTS\\Basic_C#_Programs\\TwentyOne\\TwentyOne\\Program.cs",
+              "RelativeDocumentMoniker": "TwentyOne\\Program.cs",
+              "ToolTip": "C:\\Users\\thedi\\Documents\\GitHub\\C-SHARP-PROJECTS\\Basic_C#_Programs\\TwentyOne\\TwentyOne\\Program.cs",
+              "RelativeToolTip": "TwentyOne\\Program.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAowJMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T19:57:55.571Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

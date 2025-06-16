@@ -1,0 +1,7 @@
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\OperatorChallenge\OperatorChallenge\bin\Debug\OperatorChallenge.exe.config
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\OperatorChallenge\OperatorChallenge\bin\Debug\OperatorChallenge.exe
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\OperatorChallenge\OperatorChallenge\bin\Debug\OperatorChallenge.pdb
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\OperatorChallenge\OperatorChallenge\obj\Debug\OperatorChallenge.csproj.AssemblyReference.cache
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\OperatorChallenge\OperatorChallenge\obj\Debug\OperatorChallenge.csproj.CoreCompileInputs.cache
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\OperatorChallenge\OperatorChallenge\obj\Debug\OperatorChallenge.exe
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\OperatorChallenge\OperatorChallenge\obj\Debug\OperatorChallenge.pdb

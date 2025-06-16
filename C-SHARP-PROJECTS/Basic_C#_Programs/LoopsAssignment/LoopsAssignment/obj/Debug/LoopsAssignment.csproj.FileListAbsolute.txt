@@ -1,0 +1,7 @@
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\LoopsAssignment\LoopsAssignment\bin\Debug\LoopsAssignment.exe.config
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\LoopsAssignment\LoopsAssignment\bin\Debug\LoopsAssignment.exe
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\LoopsAssignment\LoopsAssignment\bin\Debug\LoopsAssignment.pdb
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\LoopsAssignment\LoopsAssignment\obj\Debug\LoopsAssignment.csproj.AssemblyReference.cache
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\LoopsAssignment\LoopsAssignment\obj\Debug\LoopsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\LoopsAssignment\LoopsAssignment\obj\Debug\LoopsAssignment.exe
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\LoopsAssignment\LoopsAssignment\obj\Debug\LoopsAssignment.pdb

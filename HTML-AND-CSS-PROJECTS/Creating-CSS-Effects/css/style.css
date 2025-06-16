@@ -1,0 +1,199 @@
+/*Import link for the Roboto font from fonts.google.com*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+/*NAVBAR*/
+.nav-bar{
+    position: sticky;
+    top: 0;
+    z-index: 4; /*Sets the position of the navbar in the stack layer so it is on top*/
+}
+
+ul{
+    list-style-type: none; /*Removes the default bullet point styling on list tag elements*/
+    background-color: #363636;
+    margin: -10px -10px 0px -10px; /*Margin value order top, right, bottom, and left*/
+    overflow: hidden; /*Hides excess margin space expanding past the broswer window edge and prevents a left to right scroll bar*/
+    display: flex; /*Creates flex container so the elements will take up as much of the width that is available*/
+    align-items: center;
+}
+
+a{
+    display: block;
+    font-family: "Roboto", sans-serif; /*Font from fonts.google.com*/
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+    text-decoration: none; /*Removes the default underline link text-decoration*/
+    text-transform: uppercase; /*Transforms all text to uppercase regardless of the case that is tryped in the HTML file*/
+    width: 100px;
+    padding: 30px;
+    text-align: center;
+    transition: background-color 0.4s ease-in;
+}
+
+/*NAVBAR ROLLOVER EFFECTS*/
+a:hover, .drop:hover /*drop:hover triggers when any one of the links in the Images list tag is being hovered over*/{
+    background-color: rgb(228, 159, 0);
+    color: rgb(49, 49, 49);
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.7);
+    transition: background-color 0.3s ease-in;
+}
+
+/*Styles and hides the anchor links within the Images link div tag*/
+.rollover-menu{
+    display: none;
+    position: absolute;
+    background-color: white;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+}
+
+/*Displays anchor elements when the user hovers their mouse over the Images link*/
+.drop:hover .rollover-menu{
+    display: block;
+}
+
+/*Specifically styles the anchor elements within the div tag that contains the rollover-menu class selector*/
+.rollover-menu a{
+    color: #363636;
+}
+
+/*Specifically styles the anchor elements within the div tag that contains the rollover-menu class selector when the hover effect is triggered*/
+.rollover-menu a:hover{
+    color: white;
+}
+
+/*Specifically styles the first anchor element child within the rollover-menu div tag*/
+.rollover-menu a:hover:nth-child(1){
+    background-color: rgb(117, 20, 20);
+}
+
+/*Specifically styles the second anchor element child within the rollover-menu div tag*/
+.rollover-menu a:hover:nth-child(2){
+    background-color: rgb(87, 7, 7);
+}
+
+/*Specifically styles the third anchor element child within the rollover-menu div tag*/
+.rollover-menu a:hover:nth-child(3){
+    background-color: rgb(48, 2, 2);
+}
+
+
+/*FOOTER*/
+footer{
+    background-color: #363636;
+    margin: 30px -10px -10px -10px; /*Margin value order top, right, bottom, and left*/
+    overflow: hidden; /*Hides excess margin space expanding past the browser window edge and prevents a left to right scroll bar*/
+    height: 70px;
+}
+
+/*Styles the text in the footer*/
+.footer-text{
+    font-family: "Roboto", sans-serif; /*Font from fonts.google.com*/
+    font-size: 20px;
+    font-weight: 400;
+    color: rgb(228, 159, 0);
+    text-align: center;
+}
+
+/*IMAGES*/
+img{
+    width: 700px;
+    height: 466px;
+}
+
+/*Creates a container for each image to be held in*/
+.image-container{
+    display: flex;
+    justify-content: center;
+    padding-top: 120px;
+}
+
+/*Creates a uniform amount of space (as the other two images on the screen) from the navbar to the top of the image when the bookmark link is clicked on*/
+#image3{
+    padding-bottom: 170px;
+}
+
+/*IMAGE ONE*/
+/*Overlays a dark grey color over the first image*/
+.overlay{
+    position: absolute;
+    width: 700px;
+    height: 466px;
+    background-color: rgb(90, 90, 90);
+    opacity: 0;
+    transition: 0.5s ease;
+}
+
+/*Triggers the hover effect of the overlay on image1 with a 60% opacity*/
+.overlay:hover{
+    opacity: 0.6;
+}
+
+/*IMAGE TWO*/
+.zoom{
+    transform: scale(1); /*Sets the base size of image2 for a zoom in effect*/
+    transition: 0.5s ease-out; /*Creates a smooth transition of the image zooming back to its original size*/
+    z-index: 3; /*Sets image position in the stack layer behind navbar so zoom effect does not cover the navbar*/
+}
+
+/*Creates a zoom in effect on image2*/
+.zoom:hover{
+    transform: scale(1.5); /*Scales image2 to grow half its size*/
+    transition: 0.5s ease-out;
+}
+
+/*IMAGE THREE*/
+/*Creates the position of the animation burst and hides any overflow of the size going beyond the edges of image3*/
+.circle{
+    position: relative;
+    margin: 0px;
+    overflow: hidden;
+}
+
+/*Sets up the burst animation shape and position before the hover effect is triggered*/
+.circle::before{
+    content: "";
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-radius: 50%; /*Creates a circle/oval shape*/
+    opacity: 0; /*Makes the shape invisible until the animation is triggered by a hover effect*/
+    top: 50%;
+    left: 50%; /*Top and left position the circle to the center of image3*/
+    transform: translate(-50%, -50%); /*Allows the circle to evenly expand on all four sides of image3*/
+    animation: burst-reverse 1s;
+}
+
+/*Triggers the hover effect on the circle class selector ::before*/
+.circle:hover::before{
+    animation: burst 1s;
+    animation-fill-mode: forwards;
+}
+
+/*Creates a growing circle effect*/
+@keyframes burst{
+    0% /*0% is the start of the animation*/ {
+        opacity: 0.2;
+        background-color: rgb(224, 224, 224);
+    }
+    100% /*100% is the end of the animation*/ {
+        opacity: 0.7;
+        background-color: rgb(224, 224, 224);
+        width: 300%;
+        height: 300%;
+    }
+}
+
+/*Animation of the circle shrinking back to the center of the image*/
+@keyframes burst-reverse{
+    0%{
+        opacity: 0.7;
+        background-color: rgb(224, 224, 224);
+        width: 300%;
+        height: 300%;
+    }
+    100%{
+        opacity: 0.2;
+        background-color: rgb(224, 224, 224);
+    }
+}

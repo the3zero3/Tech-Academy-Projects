@@ -1,0 +1,7 @@
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\OperatorAssignment\OperatorAssignment\bin\Debug\OperatorAssignment.exe.config
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\OperatorAssignment\OperatorAssignment\bin\Debug\OperatorAssignment.exe
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\OperatorAssignment\OperatorAssignment\bin\Debug\OperatorAssignment.pdb
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\OperatorAssignment\OperatorAssignment\obj\Debug\OperatorAssignment.csproj.AssemblyReference.cache
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\OperatorAssignment\OperatorAssignment\obj\Debug\OperatorAssignment.csproj.CoreCompileInputs.cache
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\OperatorAssignment\OperatorAssignment\obj\Debug\OperatorAssignment.exe
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\OperatorAssignment\OperatorAssignment\obj\Debug\OperatorAssignment.pdb

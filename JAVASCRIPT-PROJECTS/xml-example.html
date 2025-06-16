@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+    <p id="XML_Example"></p>
+    <script>
+        var XML_Parser, XML_Document;
+
+        //Creates a text string
+        var Car = "<car>" +
+            "<make>McLaren</make>" +
+            "<model>F1</model>" +
+            "<trim>GTR</trim>" +
+            "<year>1995</year>" +
+            "</car>";
+
+        //Creates an XML DOM parser
+        XML_Parser = new DOMParser();
+
+        //Creates a new XML DOM object using the text string
+        XML_Document = XML_Parser.parseFromString(Car, "text/xml");
+
+        document.getElementById("XML_Example").innerHTML = XML_Document.getElementsByTagName("make")[0].childNodes[0].nodeValue;
+    </script>
+</body>
+
+</html>

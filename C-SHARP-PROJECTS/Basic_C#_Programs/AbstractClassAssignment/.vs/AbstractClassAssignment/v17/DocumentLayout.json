@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thedi\\Documents\\GitHub\\C-SHARP-PROJECTS\\Basic_C#_Programs\\AbstractClassAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B4FFB46-A980-4D0A-BE46-123282AB5A20}|AbstractClassAssignment\\AbstractClassAssignment.csproj|C:\\Users\\thedi\\Documents\\GitHub\\C-SHARP-PROJECTS\\Basic_C#_Programs\\AbstractClassAssignment\\abstractclassassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B4FFB46-A980-4D0A-BE46-123282AB5A20}|AbstractClassAssignment\\AbstractClassAssignment.csproj|solutionrelative:abstractclassassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B4FFB46-A980-4D0A-BE46-123282AB5A20}|AbstractClassAssignment\\AbstractClassAssignment.csproj|C:\\Users\\thedi\\Documents\\GitHub\\C-SHARP-PROJECTS\\Basic_C#_Programs\\AbstractClassAssignment\\abstractclassassignment\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B4FFB46-A980-4D0A-BE46-123282AB5A20}|AbstractClassAssignment\\AbstractClassAssignment.csproj|solutionrelative:abstractclassassignment\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B4FFB46-A980-4D0A-BE46-123282AB5A20}|AbstractClassAssignment\\AbstractClassAssignment.csproj|c:\\users\\thedi\\documents\\github\\c-sharp-projects\\basic_c#_programs\\abstractclassassignment\\abstractclassassignment\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B4FFB46-A980-4D0A-BE46-123282AB5A20}|AbstractClassAssignment\\AbstractClassAssignment.csproj|solutionrelative:abstractclassassignment\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B4FFB46-A980-4D0A-BE46-123282AB5A20}|AbstractClassAssignment\\AbstractClassAssignment.csproj|c:\\users\\thedi\\documents\\github\\c-sharp-projects\\basic_c#_programs\\abstractclassassignment\\abstractclassassignment\\iquittable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B4FFB46-A980-4D0A-BE46-123282AB5A20}|AbstractClassAssignment\\AbstractClassAssignment.csproj|solutionrelative:abstractclassassignment\\iquittable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IQuittable.cs",
+              "DocumentMoniker": "C:\\Users\\thedi\\Documents\\GitHub\\C-SHARP-PROJECTS\\Basic_C#_Programs\\AbstractClassAssignment\\AbstractClassAssignment\\IQuittable.cs",
+              "RelativeDocumentMoniker": "AbstractClassAssignment\\IQuittable.cs",
+              "ToolTip": "C:\\Users\\thedi\\Documents\\GitHub\\C-SHARP-PROJECTS\\Basic_C#_Programs\\AbstractClassAssignment\\AbstractClassAssignment\\IQuittable.cs",
+              "RelativeToolTip": "AbstractClassAssignment\\IQuittable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:40:05.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\thedi\\Documents\\GitHub\\C-SHARP-PROJECTS\\Basic_C#_Programs\\AbstractClassAssignment\\AbstractClassAssignment\\Person.cs",
+              "RelativeDocumentMoniker": "AbstractClassAssignment\\Person.cs",
+              "ToolTip": "C:\\Users\\thedi\\Documents\\GitHub\\C-SHARP-PROJECTS\\Basic_C#_Programs\\AbstractClassAssignment\\AbstractClassAssignment\\Person.cs",
+              "RelativeToolTip": "AbstractClassAssignment\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:09:19.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\thedi\\Documents\\GitHub\\C-SHARP-PROJECTS\\Basic_C#_Programs\\AbstractClassAssignment\\AbstractClassAssignment\\Employee.cs",
+              "RelativeDocumentMoniker": "AbstractClassAssignment\\Employee.cs",
+              "ToolTip": "C:\\Users\\thedi\\Documents\\GitHub\\C-SHARP-PROJECTS\\Basic_C#_Programs\\AbstractClassAssignment\\AbstractClassAssignment\\Employee.cs",
+              "RelativeToolTip": "AbstractClassAssignment\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:11:02.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thedi\\Documents\\GitHub\\C-SHARP-PROJECTS\\Basic_C#_Programs\\AbstractClassAssignment\\AbstractClassAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractClassAssignment\\Program.cs",
+              "ToolTip": "C:\\Users\\thedi\\Documents\\GitHub\\C-SHARP-PROJECTS\\Basic_C#_Programs\\AbstractClassAssignment\\AbstractClassAssignment\\Program.cs",
+              "RelativeToolTip": "AbstractClassAssignment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:06:27.901Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\BooleanAssignment\BooleanAssignment\bin\Debug\BooleanAssignment.exe.config
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\BooleanAssignment\BooleanAssignment\bin\Debug\BooleanAssignment.exe
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\BooleanAssignment\BooleanAssignment\bin\Debug\BooleanAssignment.pdb
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\BooleanAssignment\BooleanAssignment\obj\Debug\BooleanAssignment.csproj.AssemblyReference.cache
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\BooleanAssignment\BooleanAssignment\obj\Debug\BooleanAssignment.csproj.CoreCompileInputs.cache
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\BooleanAssignment\BooleanAssignment\obj\Debug\BooleanAssignment.exe
+C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\BooleanAssignment\BooleanAssignment\obj\Debug\BooleanAssignment.pdb
