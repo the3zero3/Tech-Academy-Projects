@@ -1,6 +1,6 @@
 # Tech Academy Projects
 
-This repository is for my Tech Academy projects.
+This repository contains the projects built at The Tech Academy.
 
 ## Projects
 
