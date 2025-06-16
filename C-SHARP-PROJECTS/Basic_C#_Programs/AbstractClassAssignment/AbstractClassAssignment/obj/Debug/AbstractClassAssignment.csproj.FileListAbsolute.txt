@@ -1,7 +1,0 @@
-C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\AbstractClassAssignment.exe.config
-C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\AbstractClassAssignment.exe
-C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\AbstractClassAssignment.pdb
-C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\AbstractClassAssignment.csproj.AssemblyReference.cache
-C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\AbstractClassAssignment.csproj.CoreCompileInputs.cache
-C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\AbstractClassAssignment.exe
-C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\AbstractClassAssignment.pdb

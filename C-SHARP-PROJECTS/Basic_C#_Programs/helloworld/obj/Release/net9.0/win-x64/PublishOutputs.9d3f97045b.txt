@@ -1,5 +1,0 @@
-C:\Users\thedi\Desktop\Basic_C#_Programs\helloworld\bin\Release\net9.0\win-x64\publish\helloworld.exe
-C:\Users\thedi\Desktop\Basic_C#_Programs\helloworld\bin\Release\net9.0\win-x64\publish\helloworld.dll
-C:\Users\thedi\Desktop\Basic_C#_Programs\helloworld\bin\Release\net9.0\win-x64\publish\helloworld.deps.json
-C:\Users\thedi\Desktop\Basic_C#_Programs\helloworld\bin\Release\net9.0\win-x64\publish\helloworld.runtimeconfig.json
-C:\Users\thedi\Desktop\Basic_C#_Programs\helloworld\bin\Release\net9.0\win-x64\publish\helloworld.pdb

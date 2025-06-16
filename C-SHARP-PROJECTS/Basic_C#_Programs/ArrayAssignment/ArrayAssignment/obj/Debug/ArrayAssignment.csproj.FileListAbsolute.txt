@@ -1,7 +1,0 @@
-C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\ArrayAssignment\ArrayAssignment\bin\Debug\ArrayAssignment.exe.config
-C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\ArrayAssignment\ArrayAssignment\bin\Debug\ArrayAssignment.exe
-C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\ArrayAssignment\ArrayAssignment\bin\Debug\ArrayAssignment.pdb
-C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\ArrayAssignment\ArrayAssignment\obj\Debug\ArrayAssignment.csproj.AssemblyReference.cache
-C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\ArrayAssignment\ArrayAssignment\obj\Debug\ArrayAssignment.csproj.CoreCompileInputs.cache
-C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\ArrayAssignment\ArrayAssignment\obj\Debug\ArrayAssignment.exe
-C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\ArrayAssignment\ArrayAssignment\obj\Debug\ArrayAssignment.pdb

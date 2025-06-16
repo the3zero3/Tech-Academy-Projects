@@ -1,8 +1,0 @@
-C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\TryCatchAssignment\TryCatchAssignment\obj\Debug\TryCatchAssignment.csproj.AssemblyReference.cache
-C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\TryCatchAssignment\TryCatchAssignment\obj\Debug\TryCatchAssignment.csproj.CoreCompileInputs.cache
-C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\TryCatchAssignment\TryCatchAssignment\bin\Debug\TryCatchAssignment.exe.config
-C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\TryCatchAssignment\TryCatchAssignment\bin\Debug\TryCatchAssignment.exe
-C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\TryCatchAssignment\TryCatchAssignment\bin\Debug\TryCatchAssignment.pdb
-C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\TryCatchAssignment\TryCatchAssignment\obj\Debug\TryCatchAssignment.exe
-C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\TryCatchAssignment\TryCatchAssignment\obj\Debug\TryCatchAssignment.pdb
-C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\TryCatchAssignment\TryCatchAssignment\obj\Debug\TryCatchAssignment.exe.config

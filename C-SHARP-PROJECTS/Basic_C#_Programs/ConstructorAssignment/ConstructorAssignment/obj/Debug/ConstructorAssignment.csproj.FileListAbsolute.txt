@@ -1,8 +1,0 @@
-C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\ConstructorAssignment\ConstructorAssignment\bin\Debug\ConstructorAssignment.exe.config
-C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\ConstructorAssignment\ConstructorAssignment\bin\Debug\ConstructorAssignment.exe
-C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\ConstructorAssignment\ConstructorAssignment\bin\Debug\ConstructorAssignment.pdb
-C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\ConstructorAssignment\ConstructorAssignment\obj\Debug\ConstructorAssignment.csproj.AssemblyReference.cache
-C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\ConstructorAssignment\ConstructorAssignment\obj\Debug\ConstructorAssignment.csproj.CoreCompileInputs.cache
-C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\ConstructorAssignment\ConstructorAssignment\obj\Debug\ConstructorAssignment.exe
-C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\ConstructorAssignment\ConstructorAssignment\obj\Debug\ConstructorAssignment.pdb
-C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\ConstructorAssignment\ConstructorAssignment\obj\Debug\ConstructorAssignment.exe.config

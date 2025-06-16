@@ -1,8 +1,0 @@
-C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\InputAssignment\InputAssignment\bin\Debug\InputAssignment.exe.config
-C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\InputAssignment\InputAssignment\bin\Debug\InputAssignment.exe
-C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\InputAssignment\InputAssignment\bin\Debug\InputAssignment.pdb
-C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\InputAssignment\InputAssignment\obj\Debug\InputAssignment.csproj.AssemblyReference.cache
-C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\InputAssignment\InputAssignment\obj\Debug\InputAssignment.csproj.CoreCompileInputs.cache
-C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\InputAssignment\InputAssignment\obj\Debug\InputAssignment.exe
-C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\InputAssignment\InputAssignment\obj\Debug\InputAssignment.pdb
-C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\InputAssignment\InputAssignment\obj\Debug\InputAssignment.exe.config

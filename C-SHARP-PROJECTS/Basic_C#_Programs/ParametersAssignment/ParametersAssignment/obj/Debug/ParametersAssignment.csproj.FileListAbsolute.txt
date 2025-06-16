@@ -1,7 +1,0 @@
-C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\ParametersAssignment\ParametersAssignment\bin\Debug\ParametersAssignment.exe.config
-C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\ParametersAssignment\ParametersAssignment\bin\Debug\ParametersAssignment.exe
-C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\ParametersAssignment\ParametersAssignment\bin\Debug\ParametersAssignment.pdb
-C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\ParametersAssignment\ParametersAssignment\obj\Debug\ParametersAssignment.csproj.AssemblyReference.cache
-C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\ParametersAssignment\ParametersAssignment\obj\Debug\ParametersAssignment.csproj.CoreCompileInputs.cache
-C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\ParametersAssignment\ParametersAssignment\obj\Debug\ParametersAssignment.exe
-C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\ParametersAssignment\ParametersAssignment\obj\Debug\ParametersAssignment.pdb

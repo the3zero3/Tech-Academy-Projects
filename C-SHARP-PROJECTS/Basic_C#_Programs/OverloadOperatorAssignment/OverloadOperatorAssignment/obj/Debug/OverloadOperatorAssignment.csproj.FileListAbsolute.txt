@@ -1,7 +1,0 @@
-C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\OverloadOperatorAssignment\OverloadOperatorAssignment\obj\Debug\OverloadOperatorAssignment.csproj.AssemblyReference.cache
-C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\OverloadOperatorAssignment\OverloadOperatorAssignment\obj\Debug\OverloadOperatorAssignment.csproj.CoreCompileInputs.cache
-C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\OverloadOperatorAssignment\OverloadOperatorAssignment\bin\Debug\OverloadOperatorAssignment.exe.config
-C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\OverloadOperatorAssignment\OverloadOperatorAssignment\bin\Debug\OverloadOperatorAssignment.exe
-C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\OverloadOperatorAssignment\OverloadOperatorAssignment\bin\Debug\OverloadOperatorAssignment.pdb
-C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\OverloadOperatorAssignment\OverloadOperatorAssignment\obj\Debug\OverloadOperatorAssignment.exe
-C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\OverloadOperatorAssignment\OverloadOperatorAssignment\obj\Debug\OverloadOperatorAssignment.pdb

@@ -1,7 +1,0 @@
-C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\MethodPt2Assignment\MethodPt2Assignment\bin\Debug\MethodPt2Assignment.exe.config
-C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\MethodPt2Assignment\MethodPt2Assignment\bin\Debug\MethodPt2Assignment.exe
-C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\MethodPt2Assignment\MethodPt2Assignment\bin\Debug\MethodPt2Assignment.pdb
-C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\MethodPt2Assignment\MethodPt2Assignment\obj\Debug\MethodPt2Assignment.csproj.AssemblyReference.cache
-C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\MethodPt2Assignment\MethodPt2Assignment\obj\Debug\MethodPt2Assignment.csproj.CoreCompileInputs.cache
-C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\MethodPt2Assignment\MethodPt2Assignment\obj\Debug\MethodPt2Assignment.exe
-C:\Users\thedi\Documents\GitHub\C-SHARP-PROJECTS\Basic_C#_Programs\MethodPt2Assignment\MethodPt2Assignment\obj\Debug\MethodPt2Assignment.pdb
